@@ -1,0 +1,11 @@
+MinCq is a Machine Learning algorithm published at ICML 2011 conference.
+
+Please read the extended version of the paper available at http://graal.ift.ulaval.ca/publications.php for more information about the theory involved and the description of the algorithm and hyperparameters.
+
+This code provides a simplified version of the algorithm that you may use to test it out. Please contact me if you have any questions or requests. As an example, I can help you adding your favorite kernel function into my code, etc.
+
+A collection of "usual" UCI and MNIST datasets are available on my website.
+
+
+Jean-Francis Roy
+http://jeanfrancisroy.com
