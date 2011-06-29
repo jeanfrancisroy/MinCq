@@ -6,6 +6,7 @@ This code provides a simplified version of the algorithm that you may use to tes
 
 A collection of "usual" UCI and MNIST datasets are available on my website.
 
+Dependencies : CVXOPT solver
 
 Jean-Francis Roy
 http://jeanfrancisroy.com
